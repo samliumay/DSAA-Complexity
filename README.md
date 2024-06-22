@@ -1,7 +1,7 @@
 # CTAL - Complexity Testing and Learning
-## Explanation of Time Complexity:
-- How to calculate it
-- Examples with explanation about how to calculate the complexity.
+## Explanation of Time Complexity
+- Explains how to calculate it
+- Teaches with examples with explanation about how to calculate the complexity.
 
 # How to use/read and study?
 1- Enter the 'CTAL/src/main/java/Main.java'
