@@ -5,8 +5,11 @@
 
 # How to use/read and study?
 1- Enter the 'CTAL/src/main/java/Main.java'
+
 2- Firslty run the code and observe the output.
+
 3- Then look to the 'ComplexityExamples.java'.
+
 4- Read all lines one by one with the detailed explanation. 
 
 
