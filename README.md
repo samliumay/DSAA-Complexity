@@ -6,7 +6,9 @@
 
 # How to use/read and study?
 0- Wathch the video for complexity I uploaded to youtube (Will be here soon)
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+title: Example product landing page
+product_video: 'https://www.youtube.com/watch?v=9jUQ0FxYvho&t=1001s'
 
 1- Enter the 'CTAL/src/main/java/Main.java'
 
