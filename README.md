@@ -8,7 +8,8 @@
 0- Wathch the video for complexity I uploaded to youtube (Will be here soon)
 
 title: Example product landing page
-[![Little red riding hood](https://i.sstatic.net/XCRlR.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+[![Everything Is AWESOME]](https://www.youtube.com/watch?v=9jUQ0FxYvho&t=1001s")
 
 1- Enter the 'CTAL/src/main/java/Main.java'
 
