@@ -5,6 +5,9 @@
 - Teaches with examples with explanation about how to calculate the complexity.
 
 # How to use/read and study?
+0- Wathch the video for complexity I uploaded to youtube (Will be here soon)
+Link: https://www.youtube.com/watch?v=9jUQ0FxYvho&t=1001s
+
 1- Enter the 'CTAL/src/main/java/Main.java'
 
 2- Firslty run the code and observe the output.
