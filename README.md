@@ -9,12 +9,11 @@
 * Basic explanation of why the complexity value of that algorithm is x.
 
 ## What do you explain at superpeer?
-* I explain complexities deeply. 
-* I explain how we calculate complext aglorithms complexity.
-* I explain how we calculate the recursive Algorithms complexity.
+* Deep explanation of complexity calculation and Algorithm complexity. 
+* Analyzing all the data structures complexity calculations of all data structures and Algorithms shown at the course.
+* Turkish and English versions of the lesson. 
 
 ## Run Locally
-
 ```bash
 git clone https://github.com/samliumay/DSAA-LinkedList.git
 cd src/main/java/Main.java
