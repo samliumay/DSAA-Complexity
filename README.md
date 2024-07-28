@@ -15,7 +15,7 @@
 
 ## Run Locally
 ```bash
-git clone https://github.com/samliumay/DSAA-LinkedList.git
+git clone https://github.com/samliumay/DSAA-Complexity.git
 cd src/main/java/Main.java
 javac ComplexityExamples.java Main.java
 java Main.java
